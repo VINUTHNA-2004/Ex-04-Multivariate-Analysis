@@ -32,8 +32,8 @@ Save the final data set into the file
 
 # CODE
 ```
-Developed by:Akkireddy Ruchitha Reddy
-Registration Number:212221230004
+Developed by:D.R.Vinuthna
+Registration Number:212221230017
 ```
 ```
 **Multivariate EDA - SuperStore.csv**
@@ -80,25 +80,25 @@ sbn.heatmap(df.corr(),annot=True)
 ```
 # OUTPUT
 ## EDA - SuperStore.csv
-![output](https://github.com/RuchithaReddy28/Ex-04-Multivariate-Analysis/blob/main/1.png?raw=true)
+![output](?raw=true)
 ## Displaying information about Dataset
-![output](https://github.com/RuchithaReddy28/Ex-04-Multivariate-Analysis/blob/main/2.png?raw=true)
+![output](?raw=true)
 
 ## Checking the null values and Cleaning it
-![output](https://github.com/RuchithaReddy28/Ex-04-Multivariate-Analysis/blob/main/3.png?raw=true)
+![output](?raw=true)
 
 ## Displaying datatypes of each features
-![output](https://github.com/RuchithaReddy28/Ex-04-Multivariate-Analysis/blob/main/4.png?raw=true)
+![output](?raw=true)
 
 ## Multivariate Analysis - Scatterplot
-![output](https://github.com/RuchithaReddy28/Ex-04-Multivariate-Analysis/blob/main/5.png?raw=true)
+![output](?raw=true)
 
 ## Multivariate Analysis - Barplot
-![output](https://github.com/RuchithaReddy28/Ex-04-Multivariate-Analysis/blob/main/6.png?raw=true)
-![output](https://github.com/RuchithaReddy28/Ex-04-Multivariate-Analysis/blob/main/7.png?raw=true)
-![output](https://github.com/RuchithaReddy28/Ex-04-Multivariate-Analysis/blob/main/8.1.png?raw=true)
+![output](?raw=true)
+![output](?raw=true)
+![output](?raw=true)
 ## Correlation Coefficient Interpretation using HeatMap
-![output](https://github.com/RuchithaReddy28/Ex-04-Multivariate-Analysis/blob/main/9.png?raw=true)
+![output](?raw=true)
 
 ## RESULT
 Thus the program to perform EDA on the given data set is successfully executed.
