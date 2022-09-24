@@ -80,25 +80,25 @@ sbn.heatmap(df.corr(),annot=True)
 ```
 # OUTPUT
 ## EDA - SuperStore.csv
-![output](?raw=true)
+![output](https://github.com/VINUTHNA-2004/Ex-04-Multivariate-Analysis/blob/main/1.png?raw=true)
 ## Displaying information about Dataset
-![output](?raw=true)
+![output](https://github.com/VINUTHNA-2004/Ex-04-Multivariate-Analysis/blob/main/2.png?raw=true)
 
 ## Checking the null values and Cleaning it
-![output](?raw=true)
+![output](https://github.com/VINUTHNA-2004/Ex-04-Multivariate-Analysis/blob/main/3.png?raw=true)
 
 ## Displaying datatypes of each features
-![output](?raw=true)
+![output](https://github.com/VINUTHNA-2004/Ex-04-Multivariate-Analysis/blob/main/4.png?raw=true)
 
 ## Multivariate Analysis - Scatterplot
-![output](?raw=true)
+![output](https://github.com/VINUTHNA-2004/Ex-04-Multivariate-Analysis/blob/main/5.png?raw=true)
 
 ## Multivariate Analysis - Barplot
-![output](?raw=true)
-![output](?raw=true)
-![output](?raw=true)
+![output](https://github.com/VINUTHNA-2004/Ex-04-Multivariate-Analysis/blob/main/6.png?raw=true)
+![output](https://github.com/VINUTHNA-2004/Ex-04-Multivariate-Analysis/blob/main/7.png?raw=true)
+![output](https://github.com/VINUTHNA-2004/Ex-04-Multivariate-Analysis/blob/main/8.1.png?raw=true)
 ## Correlation Coefficient Interpretation using HeatMap
-![output](?raw=true)
+![output](https://github.com/VINUTHNA-2004/Ex-04-Multivariate-Analysis/blob/main/9.png?raw=true)
 
 ## RESULT
 Thus the program to perform EDA on the given data set is successfully executed.
